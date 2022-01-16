@@ -1,5 +1,6 @@
 # gotree
-A small exercise in Go 
+A small exercise in Go. 
+Prints contents of a directory recursively in the same manner as `tree` does.
 
 # Installation
 Clone the repo:
