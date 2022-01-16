@@ -14,8 +14,10 @@ go build
 
 and run:
 ```
-gotree 
+./gotree 
 ```
+
+_(Alternatively you can also just run directly via `go run gotree.go`)_
 
 # Options
 
