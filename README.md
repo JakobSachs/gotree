@@ -9,6 +9,7 @@ cd gotree
 ```
 Build:
 ```
+go get JakobSachs/gotree
 go build
 ```
 
